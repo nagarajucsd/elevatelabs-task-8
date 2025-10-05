@@ -50,5 +50,15 @@ Uses Maven Compiler Plugin to compile Java 1.8 source code.
 - Console output showing `BUILD SUCCESS`.
 - Project structure confirmation.
 
+## Screenshots
+
+![Dashboard](images/img1.jpg)
+
+![Docker Metrics](images/img2.jpg)
+
+![Alerts Panel](images/img3.jpg)
+
+![Extra](images/img4.jpg)
+
 ---
 Made for learning CI/CD with Jenkins + Maven.
