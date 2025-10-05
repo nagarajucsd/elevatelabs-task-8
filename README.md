@@ -51,4 +51,4 @@ Uses Maven Compiler Plugin to compile Java 1.8 source code.
 - Project structure confirmation.
 
 ---
-Made with ❤️ for learning CI/CD with Jenkins + Maven.
+Made for learning CI/CD with Jenkins + Maven.
